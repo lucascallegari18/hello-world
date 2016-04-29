@@ -3,4 +3,4 @@
 
 Este é um tutorial para a aula de Engenharia de Software II
 
-Alterando o tutorial
+Alterando o tutorial.
